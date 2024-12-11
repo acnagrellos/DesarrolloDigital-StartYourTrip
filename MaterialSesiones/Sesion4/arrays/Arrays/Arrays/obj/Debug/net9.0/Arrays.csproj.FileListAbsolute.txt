@@ -1,0 +1,15 @@
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\arrays\Arrays\Arrays\bin\Debug\net9.0\Arrays.exe
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\arrays\Arrays\Arrays\bin\Debug\net9.0\Arrays.deps.json
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\arrays\Arrays\Arrays\bin\Debug\net9.0\Arrays.runtimeconfig.json
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\arrays\Arrays\Arrays\bin\Debug\net9.0\Arrays.dll
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\arrays\Arrays\Arrays\bin\Debug\net9.0\Arrays.pdb
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\arrays\Arrays\Arrays\obj\Debug\net9.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\arrays\Arrays\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfoInputs.cache
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\arrays\Arrays\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfo.cs
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\arrays\Arrays\Arrays\obj\Debug\net9.0\Arrays.csproj.CoreCompileInputs.cache
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\arrays\Arrays\Arrays\obj\Debug\net9.0\Arrays.sourcelink.json
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\arrays\Arrays\Arrays\obj\Debug\net9.0\Arrays.dll
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\arrays\Arrays\Arrays\obj\Debug\net9.0\refint\Arrays.dll
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\arrays\Arrays\Arrays\obj\Debug\net9.0\Arrays.pdb
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\arrays\Arrays\Arrays\obj\Debug\net9.0\Arrays.genruntimeconfig.cache
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\arrays\Arrays\Arrays\obj\Debug\net9.0\ref\Arrays.dll

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\MUFPS\\trabajo-dcI-bases\\DesarrolloDigital-StartYourTrip\\MaterialSesiones\\Sesion4\\clases\\ClasesObjetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{606CBF2D-430C-45D1-8C84-BB8BD6F0A189}|ClasesObjetos\\ClasesObjetos.csproj|e:\\projects\\mufps\\trabajo-dci-bases\\desarrollodigital-startyourtrip\\materialsesiones\\sesion4\\clases\\clasesobjetos\\clasesobjetos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606CBF2D-430C-45D1-8C84-BB8BD6F0A189}|ClasesObjetos\\ClasesObjetos.csproj|solutionrelative:clasesobjetos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606CBF2D-430C-45D1-8C84-BB8BD6F0A189}|ClasesObjetos\\ClasesObjetos.csproj|e:\\projects\\mufps\\trabajo-dci-bases\\desarrollodigital-startyourtrip\\materialsesiones\\sesion4\\clases\\clasesobjetos\\clasesobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606CBF2D-430C-45D1-8C84-BB8BD6F0A189}|ClasesObjetos\\ClasesObjetos.csproj|solutionrelative:clasesobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "E:\\Projects\\MUFPS\\trabajo-dcI-bases\\DesarrolloDigital-StartYourTrip\\MaterialSesiones\\Sesion4\\clases\\ClasesObjetos\\ClasesObjetos\\Persona.cs",
+              "RelativeDocumentMoniker": "ClasesObjetos\\Persona.cs",
+              "ToolTip": "E:\\Projects\\MUFPS\\trabajo-dcI-bases\\DesarrolloDigital-StartYourTrip\\MaterialSesiones\\Sesion4\\clases\\ClasesObjetos\\ClasesObjetos\\Persona.cs",
+              "RelativeToolTip": "ClasesObjetos\\Persona.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T00:49:00.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\MUFPS\\trabajo-dcI-bases\\DesarrolloDigital-StartYourTrip\\MaterialSesiones\\Sesion4\\clases\\ClasesObjetos\\ClasesObjetos\\Program.cs",
+              "RelativeDocumentMoniker": "ClasesObjetos\\Program.cs",
+              "ToolTip": "E:\\Projects\\MUFPS\\trabajo-dcI-bases\\DesarrolloDigital-StartYourTrip\\MaterialSesiones\\Sesion4\\clases\\ClasesObjetos\\ClasesObjetos\\Program.cs",
+              "RelativeToolTip": "ClasesObjetos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T00:46:50.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

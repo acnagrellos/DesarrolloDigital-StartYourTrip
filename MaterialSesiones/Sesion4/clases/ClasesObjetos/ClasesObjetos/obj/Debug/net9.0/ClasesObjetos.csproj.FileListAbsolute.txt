@@ -1,0 +1,15 @@
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\clases\ClasesObjetos\ClasesObjetos\bin\Debug\net9.0\ClasesObjetos.exe
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\clases\ClasesObjetos\ClasesObjetos\bin\Debug\net9.0\ClasesObjetos.deps.json
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\clases\ClasesObjetos\ClasesObjetos\bin\Debug\net9.0\ClasesObjetos.runtimeconfig.json
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\clases\ClasesObjetos\ClasesObjetos\bin\Debug\net9.0\ClasesObjetos.dll
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\clases\ClasesObjetos\ClasesObjetos\bin\Debug\net9.0\ClasesObjetos.pdb
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\clases\ClasesObjetos\ClasesObjetos\obj\Debug\net9.0\ClasesObjetos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\clases\ClasesObjetos\ClasesObjetos\obj\Debug\net9.0\ClasesObjetos.AssemblyInfoInputs.cache
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\clases\ClasesObjetos\ClasesObjetos\obj\Debug\net9.0\ClasesObjetos.AssemblyInfo.cs
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\clases\ClasesObjetos\ClasesObjetos\obj\Debug\net9.0\ClasesObjetos.csproj.CoreCompileInputs.cache
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\clases\ClasesObjetos\ClasesObjetos\obj\Debug\net9.0\ClasesObjetos.sourcelink.json
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\clases\ClasesObjetos\ClasesObjetos\obj\Debug\net9.0\ClasesObjetos.dll
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\clases\ClasesObjetos\ClasesObjetos\obj\Debug\net9.0\refint\ClasesObjetos.dll
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\clases\ClasesObjetos\ClasesObjetos\obj\Debug\net9.0\ClasesObjetos.pdb
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\clases\ClasesObjetos\ClasesObjetos\obj\Debug\net9.0\ClasesObjetos.genruntimeconfig.cache
+E:\Projects\MUFPS\trabajo-dcI-bases\DesarrolloDigital-StartYourTrip\MaterialSesiones\Sesion4\clases\ClasesObjetos\ClasesObjetos\obj\Debug\net9.0\ref\ClasesObjetos.dll
