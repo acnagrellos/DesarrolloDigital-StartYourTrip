@@ -1,0 +1,5 @@
+## Enunciado Proyecto Agencias de Viaje
+
+Los proyectos de las agencias de viaje consistirán en elaborar una aplicación de Consola en el que el usuario sea un cliente que se pueda registrar en la plataforma; aunque también podrá ver nuestro catalogo de Viajes ofertados sin registrarse. Cuando el cliente quiera pedir el presupuesto de alguno de nuestros viajes es cuando le vamos a decir que se tiene que registrar. Una vez registrado podrá elegir características de nuestro viaje, que será diferente por proyecto dependiendo si eres una agencia de viajes en el extranjero, para personas en grupo de determinadas edades, lunas de miel o viajes en el interior de España. Después cuando tenga el viaje en el carrito, que el cliente podrá consultar siempre que quiera, podrá efectuar el pago.
+
+La aplicación funcionará con todos los datos en local, sin base de datos. Por lo que cada vez que se entre en la aplicación de consola el cliente estará sin registrar. Los datos de los viajes ofertados se cargarán en memoria.
